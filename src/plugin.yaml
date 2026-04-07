@@ -1,5 +1,5 @@
-format: plugin-kit-ai/package
-name: "codex-go-starter"
+api_version: v1
+name: "plugin-kit-ai-starter-codex-go"
 version: "0.1.0"
 description: "plugin-kit-ai plugin"
 targets:

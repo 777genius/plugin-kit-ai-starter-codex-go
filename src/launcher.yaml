@@ -1,0 +1,2 @@
+runtime: "go"
+entrypoint: "./bin/plugin-kit-ai-starter-codex-go"

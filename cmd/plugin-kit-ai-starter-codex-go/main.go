@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	app := pluginkitai.New(pluginkitai.Config{Name: "codex-go-starter"})
+	app := pluginkitai.New(pluginkitai.Config{Name: "plugin-kit-ai-starter-codex-go"})
 	app.Codex().OnNotify(func(e *codex.NotifyEvent) *codex.Response {
 		_ = e
 		return codex.Continue()
